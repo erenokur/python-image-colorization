@@ -4,6 +4,14 @@ This project provides a script to colorize black-and-white images using a pre-tr
 
 ### Installing
 
+Model files are too large you need to use LFS to download them. You can install LFS using the following command:
+
+```bash
+git lfs install
+```
+
+Or you install manually on Git LFS, please visit [Git LFS website](https://git-lfs.github.com/).
+
 Ensure the following Python libraries are installed:
 
 - opencv-python
