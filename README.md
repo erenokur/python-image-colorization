@@ -12,6 +12,18 @@ git lfs install
 
 Or you install manually on Git LFS, please visit [Git LFS website](https://git-lfs.github.com/).
 
+Clone the Repository
+
+```bash
+git clone <repository_url>
+```
+
+Fetch LFS Files
+
+```bash
+git lfs fetch
+```
+
 Ensure the following Python libraries are installed:
 
 - opencv-python
